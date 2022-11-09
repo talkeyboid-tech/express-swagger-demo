@@ -8,6 +8,7 @@ Express サーバと Swagger のデモ。
 
 ```
 git clone <this repository>
+cd express-swagger-demo/
 npm install
 ```
 
