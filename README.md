@@ -23,15 +23,15 @@ Swagger UI へアクセス: http://localhost:3000/api-docs
 
 ### POST 新しい書籍を登録
 
-https://user-images.githubusercontent.com/110523208/200860307-57ee696b-4e98-477f-a6be-1971e33eab20.gif
+![post](https://user-images.githubusercontent.com/110523208/200860307-57ee696b-4e98-477f-a6be-1971e33eab20.gif)
 
 ### GET すべての書籍を取得
 
-https://user-images.githubusercontent.com/110523208/200859598-5b3e8886-0c3e-4850-b6af-a912044721b0.gif
+![getall](https://user-images.githubusercontent.com/110523208/200859598-5b3e8886-0c3e-4850-b6af-a912044721b0.gif)
 
 ### GET 特定の書籍を取得
 
-https://user-images.githubusercontent.com/110523208/200859592-ef3c3ad3-0632-4fcc-89f9-773f91f8749c.gif)
+![get](https://user-images.githubusercontent.com/110523208/200859592-ef3c3ad3-0632-4fcc-89f9-773f91f8749c.gif)
 
 # このプロジェクトの作り方
 
